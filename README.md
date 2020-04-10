@@ -1,5 +1,7 @@
 # SimpleErosion
-Simple C++ implementatoin of particle-based hydraulic erosion on a square grid
+Simple C++ implementatoin of particle-based hydraulic erosion on a square grid.
+
+Rendered using homebrew engine, written in C++ using OpenGL3 with control using DearImGUI.
 
 ![Banner Image](/screenshots/banner.png)
 
@@ -34,7 +36,8 @@ Mouse and Keyboard Inputs:
     - Move Camera Vertically: Space / C
  
 ### Panel
-There are three tabs: Map, Erosion and Renderer
+![Control Panel](/screenshots/panel.png)
+A control panel is included with DearImGUI. There are three tabs: Map, Erosion and Renderer
  
     Map:
       - Reinitialize the Heightmap using a random seed (i.e. perlin noise)
