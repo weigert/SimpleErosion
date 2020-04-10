@@ -37,6 +37,7 @@ Mouse and Keyboard Inputs:
  
 ### Panel
 ![Control Panel](/screenshots/panel.png)
+
 A control panel is included with DearImGUI. There are three tabs: Map, Erosion and Renderer
  
     Map:
@@ -63,12 +64,15 @@ A control panel is included with DearImGUI. There are three tabs: Map, Erosion a
       
 ## Screenshots
  ![Erosion Process](/screenshots/erode_reduced.gif)
+ 
  Example erosion process.
 
  ![Results Gif](/screenshots/results.gif)
+ 
  Sample of 10 results, only the results shown here.
  
  ![Before / After Comparison Gif](/screenshots/before_after.gif)
+ 
  A before after comparison of 10 OTHER samples.
  
 ## Source
