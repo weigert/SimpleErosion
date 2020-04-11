@@ -13,13 +13,17 @@ Use the makefile to compile the binary:
     make all
     
 ### Dependencies
-- gcc
-- SDL2 (core, image, ttf)
-- OpenGL3
-- GLEW
-- Boost (System, Filesystem)
-- libnoise
-- ImGUI (included as binaries in the project, no install required)
+    Erosion System:
+    - gcc (compilation)
+    - glm (vectors)
+    - libnoise (noise initialization)
+    
+    Renderer:
+    - SDL2 (core, image, ttf)
+    - OpenGL3
+    - GLEW
+    - Boost (System, Filesystem)
+    - ImGUI (included as binaries in the project, no install required)
 
 ## Usage
 Launch the simulation using the binary:
