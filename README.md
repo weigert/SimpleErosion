@@ -34,7 +34,7 @@ Launch the simulation using the binary:
 Mouse and Keyboard Inputs:
     
     - Toggle Control Panel: ESC
-    - Toggle Pause: ESC **NOTE: PAUSED BY DEFAULT**
+    - Toggle Pause: P **NOTE: PAUSED BY DEFAULT**
     - Change Camera Vertical Angle: Up / Down
     - Change Camera Zoom and Rotation: Scroll
     - Move Camera Vertically: Space / C
