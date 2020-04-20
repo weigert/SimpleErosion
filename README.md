@@ -87,4 +87,6 @@ The renderer / engine is taken from another project of mine, but I stripped it d
 Otherwise some of the details are explained on my blog!
 
 ## License
-Mozilla Public License.
+MIT License
+
+See my website for a [more detailed copyright notice](https://weigert.vsos.ethz.ch/copyright-notice/).
